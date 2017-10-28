@@ -19,7 +19,7 @@ If you are using the codes in this repo, please cite the above two papers.
 @inproceedings{chen2017tsppr,
   title={Recommendation for Repeat Consumption from User Implicit Feedback (Extended Abstract)},
   author={Chen, Jun and Wang, Chaokun and Wang, Jianmin and Philip, S Yu},
-  journal={IEEE International Conference on Data Engineering},
+  booktitle={IEEE International Conference on Data Engineering},
   year={2017},
   publisher={IEEE}
 }
