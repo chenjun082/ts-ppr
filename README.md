@@ -1,4 +1,4 @@
-# TS-PPR #
+# Time-Sensitive Personalized Pairwise Ranking #
 Codes for the TS-PPR algorithm: Recommendation for repeat consumption from user implicit feedback. [TKDE-2016](http://ieeexplore.ieee.org/document/7518642/?arnumber=7518642) [ICDE-2017 Extended Abstract](http://ieeexplore.ieee.org/document/7929912/)  
 TS-PPR is a temporal recommendation algorithm which recommends the items that the target user has consumed before but prefers at this moment. There are wide application scenarios of this kind of algorithm, e.g. music or point-of-interest recommendation.
 
